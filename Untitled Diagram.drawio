@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T09:16:20.184Z" agent="5.0 (Windows)" etag="Dr8-FdMbJRIrA-cPGunT" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T13:47:25.548Z" agent="5.0 (Windows)" etag="N8tFyk7kmW9W0qwuz7xt" version="14.9.8" type="github">
   <diagram id="31b32b95-0358-9bc7-6ba0-a27c054ed1a7" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -264,11 +264,32 @@
             <mxPoint x="1060" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="An-Oq0qILla8oX6ax3uO-111" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="810" y="560" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="An-Oq0qILla8oX6ax3uO-112" value="&lt;h1&gt;SMS&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;/h1&gt;&lt;p&gt;A high amount of budget is requred to send SMS for each event end users create.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="980" y="540" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_OSqnrBO8Ua0K4yumVMc-94" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1216" y="510" as="sourcePoint" />
+            <mxPoint x="1340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OSqnrBO8Ua0K4yumVMc-95" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="264" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_OSqnrBO8Ua0K4yumVMc-96" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_OSqnrBO8Ua0K4yumVMc-97" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_OSqnrBO8Ua0K4yumVMc-98" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_OSqnrBO8Ua0K4yumVMc-100" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="390" as="sourcePoint" />
+            <mxPoint x="1334" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
