@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T08:51:04.047Z" agent="5.0 (Windows)" etag="NyoUhWCPD47LF05oIcly" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T09:16:20.184Z" agent="5.0 (Windows)" etag="Dr8-FdMbJRIrA-cPGunT" version="14.9.8" type="github">
   <diagram id="31b32b95-0358-9bc7-6ba0-a27c054ed1a7" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="70" value="" style="swimlane;shadow=0;strokeColor=#4277BB;fillColor=#ffffff;fontColor=#4277BB;align=right;startSize=0;collapsible=0;strokeWidth=3;" parent="35" vertex="1">
           <mxGeometry x="386" y="40" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="An-Oq0qILla8oX6ax3uO-95" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/social/messaging.svg;" vertex="1" parent="70">
+        <mxCell id="An-Oq0qILla8oX6ax3uO-95" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/social/messaging.svg;" parent="70" vertex="1">
           <mxGeometry x="20" y="6" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#EEC11B;strokeWidth=2;fontSize=14;fontColor=#4277BB;" parent="35" source="72" target="74" edge="1">
@@ -144,7 +144,7 @@
         <mxCell id="76" value="" style="swimlane;shadow=0;strokeColor=#4277BB;fillColor=#ffffff;fontColor=#4277BB;align=right;startSize=0;collapsible=0;strokeWidth=3;" parent="35" vertex="1">
           <mxGeometry x="386.00000000000017" y="160" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="An-Oq0qILla8oX6ax3uO-97" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/social/messaging.svg;" vertex="1" parent="76">
+        <mxCell id="An-Oq0qILla8oX6ax3uO-97" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/social/messaging.svg;" parent="76" vertex="1">
           <mxGeometry x="19.999999999999773" y="10" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#EEC11B;strokeWidth=2;fontSize=14;fontColor=#4277BB;" parent="35" source="78" target="80" edge="1">
@@ -209,7 +209,7 @@
         <mxCell id="Fddl8qkM5L3DqnkjX7zU-100" value="Firewall" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/firewall.svg;" parent="2" vertex="1">
           <mxGeometry x="180" y="260" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fddl8qkM5L3DqnkjX7zU-102" value="Gateway / Routing Layer" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/infrastructure/load_balancing_routing.svg;" parent="2" vertex="1">
+        <mxCell id="Fddl8qkM5L3DqnkjX7zU-102" value="F5 LOADBALANCER" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/infrastructure/load_balancing_routing.svg;" parent="2" vertex="1">
           <mxGeometry x="300" y="260" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fddl8qkM5L3DqnkjX7zU-107" value="Ministries" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/management/information_governance.svg;" parent="2" vertex="1">
@@ -221,10 +221,10 @@
         <mxCell id="Fddl8qkM5L3DqnkjX7zU-111" value="End Users" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/users/device.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=12;fontColor=#4277BB;" parent="2" vertex="1">
           <mxGeometry x="53" y="270" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="An-Oq0qILla8oX6ax3uO-104" value="Vodafone" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="2">
+        <mxCell id="An-Oq0qILla8oX6ax3uO-104" value="Vodafone" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="2" vertex="1">
           <mxGeometry x="1050" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="An-Oq0qILla8oX6ax3uO-103" value="Ooredo" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="2">
+        <mxCell id="An-Oq0qILla8oX6ax3uO-103" value="Ooredo" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="2" vertex="1">
           <mxGeometry x="1050" y="405" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Fddl8qkM5L3DqnkjX7zU-95" value="Stakeholders / Ministries" style="text;html=1;align=left;verticalAlign=top;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=16;spacingLeft=5;" parent="1" vertex="1">
@@ -255,19 +255,19 @@
             <mxPoint x="242" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="An-Oq0qILla8oX6ax3uO-100" value="SMS Agent &amp;amp; Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="An-Oq0qILla8oX6ax3uO-100" value="SMS Agent &amp;amp; Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="810" y="490" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="An-Oq0qILla8oX6ax3uO-109" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="An-Oq0qILla8oX6ax3uO-109" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="530" as="sourcePoint" />
             <mxPoint x="1060" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="An-Oq0qILla8oX6ax3uO-111" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="An-Oq0qILla8oX6ax3uO-111" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="560" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="An-Oq0qILla8oX6ax3uO-112" value="&lt;h1&gt;SMS&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;A high amount of budget is requred to send SMS for each event end users create.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="An-Oq0qILla8oX6ax3uO-112" value="&lt;h1&gt;SMS&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;/h1&gt;&lt;p&gt;A high amount of budget is requred to send SMS for each event end users create.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="980" y="540" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
